@@ -1,12 +1,12 @@
 /* ==========================================================================
-   HS Desentope — cores do cartão HYS: vermelho, branco e amarelo ("Entupiu aí?"),
-   com o azul da gota da Hidra só na inspeção em vídeo.
+   HS Desentope — azul como cor principal (gota da Hidra), branco e o amarelo
+   do "Entupiu aí?" do cartão como destaque.
    ========================================================================== */
 :root {
-  --red: #c8202a;
-  --red-dk: #a3161f;
+  --red: #1559b8; /* cor principal: azul */
+  --red-dk: #0f4691;
   --yellow: #ffc928;
-  --blue: #1769c2;
+  --blue: #0d3f86;
   --ink: #161412;
   --ink-2: #2a2622;
   --muted: #5d5750;

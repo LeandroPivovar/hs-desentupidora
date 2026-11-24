@@ -3,7 +3,7 @@
 Site institucional estático (HTML/CSS/JS, sem build). Os arquivos publicados ficam em `dist/`.
 Inspirado no site da Pioneira Desentupimentos (sinais de quando chamar, cartões de serviço, faixa de plantão,
 passos, formulário que abre o WhatsApp e FAQ), com visual próprio: hero com foto de ponta a ponta, tipografia
-Archivo condensada + Figtree, vermelho, branco e amarelo do cartão HYS e o azul da gota só na inspeção em vídeo.
+Archivo condensada + Figtree, azul como cor principal, branco e o amarelo do cartão ("Entupiu aí?") como destaque.
 
 ## Vercel
 
