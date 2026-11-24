@@ -1,8 +1,9 @@
 # HS Desentope
 
 Site institucional estático (HTML/CSS/JS, sem build). Os arquivos publicados ficam em `dist/`.
-Mesma estrutura do site da Pioneira Desentupimentos (seções, ícones Phosphor locais, formulário que abre o
-WhatsApp, FAQ), com as cores dos cartões: azul-marinho, amarelo ("Entupiu aí?"), vermelho e o azul da gota.
+Inspirado no site da Pioneira Desentupimentos (sinais de quando chamar, cartões de serviço, faixa de plantão,
+passos, formulário que abre o WhatsApp e FAQ), com visual próprio: hero com foto de ponta a ponta, tipografia
+Archivo condensada + Figtree, vermelho, branco e amarelo do cartão HYS e o azul da gota só na inspeção em vídeo.
 
 ## Vercel
 
