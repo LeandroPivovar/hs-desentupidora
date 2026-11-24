@@ -1,17 +1,31 @@
-# HS Desentupidora
+# HS Desentope
 
 Site institucional estático (HTML/CSS/JS, sem build). Os arquivos publicados ficam em `dist/`.
+Mesma estrutura do site da Pioneira Desentupimentos (seções, ícones Phosphor locais, formulário que abre o
+WhatsApp, FAQ), com as cores dos cartões: azul-marinho, amarelo ("Entupiu aí?"), vermelho e o azul da gota.
 
 ## Vercel
 
 Importar a raiz do repositório com framework **Other**. O `vercel.json` define a saída `dist`, sem build nem instalação.
 
+## Estrutura
+
+```
+dist/
+  index.html
+  assets/css/styles.css
+  assets/js/main.js          menu mobile, formulário -> WhatsApp, FAQ, reveal ao rolar, ano do rodapé
+  assets/fonts/phosphor/     ícones Phosphor (woff2 local, licença MIT)
+  assets/img/                fotos ilustrativas (Unsplash) e icon.svg
+  assets/credits.html|md     créditos das fotos
+```
+
 ## Dados usados (cartões de visita e mensagens encaminhadas, 24/11/2026)
 
 | Campo | Valor |
 |---|---|
-| Nome | HS Desentupidora (definido pela AROE; os cartões dizem "HYS Desentope" e "Hidra Desentupidora") |
-| Serviços | Desentupimento, caça vazamentos, limpeza de caixa d'água, encanador/canalização, reparação hidráulica |
+| Nome | HS Desentope (definido pela AROE; os cartões dizem "HYS Desentope" e "Hidra Desentupidora") |
+| Serviços | Desentupimento, caça vazamentos, limpeza de caixa d'água, encanador/canalização, reparação hidráulica e inspeção em vídeo (acrescentada a pedido) |
 | Atendimento | "Piquete 24h" (cartão HYS) |
 | Telefone / WhatsApp | (43) 99150-3695 (`wa.me/5543991503695`) |
 | Endereço | Rua Waldomiro Batista de Araújo, 576, Jardim das Palmeiras, Londrina - PR, 86083-580 |
@@ -23,14 +37,4 @@ Importar a raiz do repositório com framework **Other**. O `vercel.json` define 
 - Se o endereço é ponto de atendimento ou só base (o mapa mostra o endereço).
 - Bairros/cidades atendidos, preços e se o plantão 24h vale todos os dias.
 - Os cartões citam o site hidradesentupidora.com.br; verificar se o domínio será usado.
-- Logo da HS e fotos reais (as fotos atuais são ilustrativas).
-
-## Imagens
-
-Fotos ilustrativas do Unsplash, com créditos em `dist/assets/credits.md` e `dist/assets/credits.html`.
-
-## Direção visual (Taste)
-
-*One motif*: a gota d'água vira a forma do site (botões, máscara das fotos, marcadores e o ícone),
-em Albert Sans e no azul da marca. Item interativo: montador de pedido (serviço, urgência, bairro) que abre o
-WhatsApp. Hero no padrão obrigatório Aroe.
+- Logo da HS Desentope e fotos reais (as fotos atuais são ilustrativas; a marca no topo é feita em texto).

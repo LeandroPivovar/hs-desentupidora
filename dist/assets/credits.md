@@ -14,3 +14,4 @@ Fotos ilustrativas do Unsplash, licença https://unsplash.com/license (uso comer
 | `dist/assets/img/chaves.jpg` | Chave inglesa e chave de cano | https://unsplash.com/photos/4mAcustUNPs | @mattartz | Licença Unsplash |
 | `dist/assets/img/dreno.jpg` | Ralo de metal em piso molhado | https://unsplash.com/photos/CCjrm6A75GU | @si1og | Licença Unsplash |
 | `dist/assets/img/agua.jpg` | Ondulação na superfície da água | https://unsplash.com/photos/SFEvfN01-ao | @vlisidis | Licença Unsplash |
+| `dist/assets/img/vaso.jpg` | Profissional de luvas trabalhando em um banheiro | https://unsplash.com/photos/VAGbjhkxg6I | @shaker_jpg | Licença Unsplash |
