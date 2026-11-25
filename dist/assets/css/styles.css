@@ -45,10 +45,8 @@ section { padding: var(--gap) var(--m) 0; }
 
 /* Marca em texto */
 .logo { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
-.logo__drop { width: 40px; height: 40px; background: var(--red); border-radius: 0 50% 50% 50%; transform: rotate(45deg); display: grid; place-items: center; flex: none; }
-.logo__drop span { transform: rotate(-45deg); font-family: var(--font-head); font-weight: 900; font-size: .9rem; color: #fff; }
-.logo__name { font-family: var(--font-head); font-stretch: 75%; font-weight: 900; font-size: 1.6rem; text-transform: uppercase; letter-spacing: .01em; white-space: nowrap; }
-.logo--light { color: #fff; }
+.logo__img { display: block; height: 50px; width: auto; }
+.logo--light .logo__img { height: 72px; background: #fff; padding: 8px 12px; border-radius: 12px; box-sizing: content-box; }
 
 /* Topo branco fixo */
 .top { position: sticky; top: 0; z-index: 100; background: var(--white); }
@@ -237,7 +235,7 @@ section { padding: var(--gap) var(--m) 0; }
   .foot__grid > div:first-child { grid-column: 1 / -1; }
 }
 @media (max-width: 560px) {
-  .logo__name { font-size: 1.35rem; }
+  .logo__img { height: 42px; }
   .hero h1 { font-size: 2.25rem; font-stretch: 75%; }
   .checks, .cards, .timeline, .form__row { grid-template-columns: 1fr; }
   .hero__cta .btn { width: 100%; }
