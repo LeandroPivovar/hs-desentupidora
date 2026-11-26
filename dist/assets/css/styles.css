@@ -118,10 +118,6 @@ section { padding: var(--gap) var(--m) 0; }
 .video__screen img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; filter: grayscale(.4) contrast(1.1); }
 .video__rec { position: absolute; top: 28px; left: 28px; display: inline-flex; align-items: center; gap: 6px; color: #fff; font-family: var(--font-head); font-weight: 800; letter-spacing: .1em; }
 .video__rec .ph { color: var(--red); }
-.video__cross { position: absolute; left: 50%; top: 50%; width: 64px; height: 64px; margin: -32px 0 0 -32px; opacity: .7; }
-.video__cross::before, .video__cross::after { content: ""; position: absolute; background: #fff; }
-.video__cross::before { left: 31px; top: 0; width: 2px; height: 100%; }
-.video__cross::after { top: 31px; left: 0; height: 2px; width: 100%; }
 
 /* Faixa de plantão */
 .alert { background: var(--yellow); display: grid; grid-template-columns: auto 1fr auto; gap: 24px 40px; align-items: center; padding-top: 48px; padding-bottom: 48px; }

@@ -17,7 +17,7 @@ dist/
   assets/css/styles.css
   assets/js/main.js          menu mobile, formulário -> WhatsApp, FAQ, reveal ao rolar, ano do rodapé
   assets/fonts/phosphor/     ícones Phosphor (woff2 local, licença MIT)
-  assets/img/                fotos ilustrativas (Unsplash) e icon.svg
+  assets/img/                fotos ilustrativas (Pexels e Unsplash) e icon.svg
   assets/credits.html|md     créditos das fotos
 ```
 

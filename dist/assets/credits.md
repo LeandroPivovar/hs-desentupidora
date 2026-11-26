@@ -1,17 +1,17 @@
 # Créditos das imagens
 
-Fotos ilustrativas do Unsplash, licença https://unsplash.com/license (uso comercial permitido). Não mostram trabalhos, equipe ou estabelecimento da empresa. Baixadas em 24/11/2026.
+Fotos ilustrativas do Unsplash (licença https://unsplash.com/license) e do Pexels (licença https://www.pexels.com/license/), ambas com uso comercial permitido. Não mostram trabalhos, equipe ou estabelecimento da empresa. Baixadas em 24/11/2026 (Unsplash) e 26/11/2026 (Pexels).
 
 | Arquivo | Descrição | Página original | Autor | Licença |
 |---|---|---|---|---|
 | `dist/assets/img/hero.jpg` | Profissional trabalhando em um cano na parede | https://unsplash.com/photos/c314Gh8dXAo | @shaker_jpg | Licença Unsplash |
-| `dist/assets/img/encanador.jpg` | Encanador consertando o encanamento de um banheiro | https://unsplash.com/photos/jaP5ClBdIyU | @bhagya_laxmi | Licença Unsplash |
-| `dist/assets/img/canos.jpg` | Tubulação hidráulica sendo instalada em uma parede | https://unsplash.com/photos/H1N-8oZR69M | @olek_bznv_photo | Licença Unsplash |
-| `dist/assets/img/ralo.jpg` | Ralo de pia de aço inoxidável | https://unsplash.com/photos/DsPxoy6vUOg | @kikiz | Licença Unsplash |
-| `dist/assets/img/pia.jpg` | Pia de aço inoxidável com torneira | https://unsplash.com/photos/CmW1uWURB18 | @inkyhills | Licença Unsplash |
-| `dist/assets/img/gota.jpg` | Torneira pingando água | https://unsplash.com/photos/oqg_v7I5IYU | @jatinsaini_2003 | Licença Unsplash |
-| `dist/assets/img/balde.jpg` | Gota d'água caindo em um balde | https://unsplash.com/photos/LoGnr-w1D8E | @da_sikka_x | Licença Unsplash |
-| `dist/assets/img/chaves.jpg` | Chave inglesa e chave de cano | https://unsplash.com/photos/4mAcustUNPs | @mattartz | Licença Unsplash |
-| `dist/assets/img/dreno.jpg` | Ralo de metal em piso molhado | https://unsplash.com/photos/CCjrm6A75GU | @si1og | Licença Unsplash |
-| `dist/assets/img/agua.jpg` | Ondulação na superfície da água | https://unsplash.com/photos/SFEvfN01-ao | @vlisidis | Licença Unsplash |
 | `dist/assets/img/vaso.jpg` | Profissional de luvas trabalhando em um banheiro | https://unsplash.com/photos/VAGbjhkxg6I | @shaker_jpg | Licença Unsplash |
+| `dist/assets/img/s-desentupimento.jpg` | Equipe com caminhão e mangueira desentupindo a rede de esgoto | https://www.pexels.com/photo/36842620/ | Jesus Adrián Saavedra | Licença Pexels |
+| `dist/assets/img/s-vazamentos.jpg` | Profissional verificando o banheiro com um aparelho de medição | https://www.pexels.com/photo/32497162/ | Kathleen Austin Kuhn | Licença Pexels |
+| `dist/assets/img/s-caixa.jpg` | Trabalhadores na laje, acima de uma caixa d'água azul (recortada) | https://www.pexels.com/photo/39594768/ | Vikesh zen | Licença Pexels |
+| `dist/assets/img/s-encanador.jpg` | Encanador apertando as conexões de uma tubulação | https://www.pexels.com/photo/6419128/ | Anıl Karakaya | Licença Pexels |
+| `dist/assets/img/s-reparo.jpg` | Mãos de luva ajustando uma bomba hidráulica | https://www.pexels.com/photo/7859953/ | Heiko Ruth | Licença Pexels |
+| `dist/assets/img/inspecao.jpg` | Técnico usando um equipamento de inspeção com câmera e monitor | https://www.pexels.com/photo/12203702/ | MedPoint 24 | Licença Pexels |
+| `dist/assets/img/g-bomba.jpg` | Técnico consertando uma bomba d'água | https://www.pexels.com/photo/35290675/ | Bulat843 | Licença Pexels |
+| `dist/assets/img/g-ralo.jpg` | Trabalhador de uniforme laranja verificando um ralo na rua | https://www.pexels.com/photo/14308979/ | Vi Nguyễn Hoàng Duy | Licença Pexels |
+| `dist/assets/img/g-cabo.jpg` | Trabalhador com carretel de cabo na rua | https://www.pexels.com/photo/29856932/ | Nikita Grishin | Licença Pexels |
